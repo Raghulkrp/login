@@ -1,0 +1,26 @@
+:host ::ng-deep .mat-grid-tile .mat-figure {
+    justify-content: space-between !important;
+    display: flow-root !important;
+}
+
+.heading {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.subheading {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.table_header{
+    background-color: #c7c7c7;
+}
+
+::ng-deep .mat-form-field-wrapper {
+    padding-bottom: 0;
+  }
+  
+  .custom-component {
+    padding: var(--component-p20);
+  }
